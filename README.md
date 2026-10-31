@@ -1,4 +1,4 @@
-## Thalis Ambrosim Falqueto
+# Thalis Ambrosim Falqueto
 
 Graduando em Ciência de Dados e Inteligência Artificial na **FGV EMAp** (Rio de
 Janeiro), com bolsa integral por desempenho acadêmico e olímpico. Formatura prevista
